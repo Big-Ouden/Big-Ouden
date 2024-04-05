@@ -2,13 +2,13 @@
 
 Good to see you, I'm a computer engineering student at the [ENSIIE](https://ensiie.fr). I'm passionated by system administration, HPC and entrepreneurship.
 
-#### Languages
+### Languages
 
 <img title="C" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img alt="HTML" title="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img alt="CSS" title="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img alt="PHP" title="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">|<img alt="JS" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Java" title="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img alt="SQL" title="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img alt="Ocaml" title="Ocaml" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/ocaml/ocaml.png">|<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="R" alt="R" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" />
 |--|--|--|--|--|--|--|--|--|--|
 
 
-#### Technologies
+### Technologies
 
 - linux
 
@@ -19,12 +19,12 @@ Good to see you, I'm a computer engineering student at the [ENSIIE](https://ensi
 - Scilab  
 <img title="scilab" alt="scilab" width="50px" src="images/scilab.png"> 
 
-#### Full stack projects
+### Full stack project
 
 [My website/portfolio](https://belier.iiens.net) 
 
 
-#### Game Jams
+### Game Jams
 
 - Unijam 2024  ([itchio](https://mathieu-coutant.itch.io/alter-maze))  
 <a href = https://c-19.fr/actualites/unijam-2023/><img title="unijam" alt="unijam" width="50px" src="images/unijam.jpg"> </a>
@@ -35,16 +35,16 @@ Good to see you, I'm a computer engineering student at the [ENSIIE](https://ensi
 
 
 
-#### Association
+### Associations
 
 - Treasurer of Forum Horizon Informatique, an event which regroup over 20 computer science companies (Nvidia, Ubisoft, CEA ...)
 
-<div align='center'>
+<!-- <div align='center'>
 <img title="arise" alt="arise" width="150px" src="images/FHI.png" >
-</div>
+</div> -->
 
 - Secratary general of ARISE, Student system adinistration association at ENSIIE 
 
-<div align='center'>
+<!-- <div align='center'>
 <img title="arise" alt="arise" width="150px" src="images/arise.png" >
-</div>
+</div> -->
