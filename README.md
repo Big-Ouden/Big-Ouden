@@ -1,4 +1,4 @@
-## Hi there, I'm Simon
+## Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !  I'm Simon
 
 Good to see you, I'm a computer engineering student at the [ENSIIE](https://ensiie.fr). I'm passionated by system administration, HPC and entrepreneurship.
 
@@ -10,26 +10,41 @@ Good to see you, I'm a computer engineering student at the [ENSIIE](https://ensi
 
 #### Technologies
 
-linux
-<img title="arch" alt="arch" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/arch/arch.png">| debian| ubuntu 
+- linux
+
+<img title="arch" alt="arch" width="50px" src="images/arch.png">| <img title="debian" alt="debian" width="50px" src="images/debian.png">| <img title="ubuntu" alt="ubuntu" width="50px" src="images/ubuntu.png"> 
 |--|--|--|
 
-- Scilab
+
+- Scilab  
+<img title="scilab" alt="scilab" width="50px" src="images/scilab.png"> 
 
 #### Full stack projects
 
-my website/portfolio
+[My website/portfolio](https://belier.iiens.net) 
 
 
-#### Game Jam
+#### Game Jams
 
-Unijam 2023
-Global game jam 2024
-INT Game Jam
-
-
-
-
-
+- Unijam 2024  ([itchio](https://mathieu-coutant.itch.io/alter-maze))  
+<a href = https://c-19.fr/actualites/unijam-2023/><img title="unijam" alt="unijam" width="50px" src="images/unijam.jpg"> </a>
+- Global game jam 2024 ([itchio](https://globalgamejam.org/games/2024/clown-fight-4))   
+<a href=https://globalgamejam.org><img title="unijam" alt="unijam" width="50px" src="images/globalGJ.png"></a>
+- INT Game Jam 2024  ([itchio](https://hermier-jules.itch.io/ivan-the-intruder))   
+<a href=https://intgamejam.fr><img title="unijam" alt="unijam" width="50px" src="images/INTGamejam.png"></a>
 
 
+
+#### Association
+
+- Treasurer of Forum Horizon Informatique, an event which regroup over 20 computer science companies (Nvidia, Ubisoft, CEA ...)
+
+<div align='center'>
+<img title="arise" alt="arise" width="150px" src="images/FHI.png" >
+</div>
+
+- Secratary general of ARISE, Student system adinistration association at ENSIIE 
+
+<div align='center'>
+<img title="arise" alt="arise" width="150px" src="images/arise.png" >
+</div>
