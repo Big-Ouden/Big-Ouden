@@ -1,4 +1,4 @@
-## Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !  I'm Simon
+## Hi there ! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">   I'm Simon
 
 Good to see you, I'm a computer engineering student at the [ENSIIE](https://ensiie.fr). I'm passionated by system administration, HPC and entrepreneurship.
 
