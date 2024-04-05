@@ -13,9 +13,16 @@ sql
 ocaml  
 python  
 R  
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img alt="HTML" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+<img alt="PHP" title="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+<img alt="SQL" title="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+<img alt="Ocaml" title="Ocaml" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ocaml/ocaml.png">
 
-![image](https://github.com/Big-Ouden/Big-Ouden/assets/151852986/6c06dd37-cb0b-41af-bf11-d07ea7f0fa37)
-
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 
 #### Technologies
