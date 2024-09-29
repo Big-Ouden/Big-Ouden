@@ -1,6 +1,6 @@
 ## Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Simon Bélier!
 
-<a href='https://www.linkedin.com/in/simon-b%C3%A9lier-1a2535295'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/Big-Ouden/Big-Ouden/main/images/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/simon-b%C3%A9lier-1a2535295'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/Big-Ouden/Big-Ouden/main/assets/linkedin.svg" height='18px'/></a>
 
 I am a curious, versatilist and easily learn and adapt to differents hats (HPC Engineer, Full stack developer📱, Beginner game developer) depending of the project 💻. I love above all learn and search for new tech and app to build cool stuffs 🛠️.
 
