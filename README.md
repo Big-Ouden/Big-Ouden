@@ -26,30 +26,25 @@ I am a curious, versatilist and easily learn and adapt to differents hats (HPC E
 
 ### 🔨 Languages and Tools:
 
-<a href="arch" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="debian" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="scilab" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="python" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="c" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="c++" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="godot" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="js" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="html" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="css" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="ocaml" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="git" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="bash" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
-<a href="java" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a>
+<!-- <a href="arch" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=arch" alt="" height="42px"/> </a> -->
+<!-- <a href="debian" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=debian" alt="" height="42px"/> </a> -->
+<!-- <a href="python" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=python" alt="" height="42px"/> </a> -->
+<!---->
+<center>
 
-### 📊 Github Stats
+![My Skills](https://skillicons.dev/icons?i=arch,debian,python,js,html,css,c,cpp,java,godot,ocaml,git,bash,mysql,neovim&perline=7)
 
-<!-- TODO : follow this tuto in order to have stats-->
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+</center>
+<!-- <a href="c" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=c" alt="" height="42px"/> </a> -->
+<!-- <a href="c++" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=cpp" alt="" height="42px"/> </a> -->
+<!-- <a href="godot" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=godot" alt="" height="42px"/> </a> -->
+<!-- <a href="js" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=html,css,js" alt="" height="42px"/> </a> -->
+<!-- <a href="html" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
+<!-- <a href="css" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
+<!-- <a href="ocaml" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
+<!-- <a href="git" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
+<!-- <a href="bash" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
+<!-- <a href="java" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
 
 <br>
 
@@ -58,3 +53,5 @@ I am a curious, versatilist and easily learn and adapt to differents hats (HPC E
 ### 📝 Quote
 
 < Compiling is doubting >
+
+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
