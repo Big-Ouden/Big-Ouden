@@ -53,5 +53,3 @@ I am a curious, versatilist and easily learn and adapt to differents hats (HPC E
 ### 📝 Quote
 
 < Compiling is doubting >
-
-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
