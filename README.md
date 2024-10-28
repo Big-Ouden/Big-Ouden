@@ -1,4 +1,4 @@
-## Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Simon Bélier!
+## Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Simon BELIER!
 
 <a href='https://www.linkedin.com/in/simon-b%C3%A9lier-1a2535295'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/Big-Ouden/Big-Ouden/main/assets/linkedin.svg" height='18px'/></a>
 
