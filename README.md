@@ -13,16 +13,16 @@ I am a curious, versatilist and easily learn and adapt to differents hats (HPC E
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; Feel free to visit my [linktree](https://link.bigouden.org) and/or my [blog](https://bigouden.org)
-<!--
-- 🤝 &nbsp; 
-- 🌱 &nbsp;
-- 🎨 &nbsp;
--->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Big-Ouden?tab=repositories)
 - 💬 &nbsp; Ask me about anything homelabing related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/simon-b%C3%A9lier-1a2535295)
 - 📝 &nbsp; Checkout my [resume](https://rxresu.me/simon.belier29/cv-forum)
+<!--
+- 🤝 &nbsp; 
+- 🌱 &nbsp;
 - 📚 &nbsp;
+- 🎨 &nbsp;
+-->
 
 <br>
 
