@@ -1,54 +1,104 @@
-## Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Simon BELIER!
+<img style="display: block; margin-left: auto; margin-right: auto;" align="center"  src="./assets/banner.gif"  />
 
-<a href='https://www.linkedin.com/in/simon-b%C3%A9lier-1a2535295'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/Big-Ouden/Big-Ouden/main/assets/linkedin.svg" height='18px'/></a>
-
-<br>
-I am a curious, versatilist and easily learn and adapt to differents hats (HPC Engineer, Full stack developer📱, Beginner game developer) depending of the project 💻. I love above all learn and search for new tech and app to build cool stuffs 🛠️.
-
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Big-Ouden/Big-Ouden/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
-
-- 🔭 &nbsp; Feel free to visit my [linktree](https://link.bigouden.org) and/or my [blog](https://bigouden.org)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Big-Ouden)
-- 💬 &nbsp; Ask me about anything homelabing related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/simon-b%C3%A9lier-1a2535295)
-- 📝 &nbsp; Checkout my [resume](https://rxresu.me/simon.belier29/cv-simon-belier)
-<!--
-- 🤝 &nbsp; 
-- 🌱 &nbsp;
-- 📚 &nbsp;
-- 🎨 &nbsp;
--->
 
 <br>
 
-### 🔨 Languages and Tools:
+<div align="center">
+  <a href="https://www.linkedin.com/in/simon-b%C3%A9lier-1a2535295/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://ko-fi.com/bigouden" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+  <a href="https://link.bigouden.org" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="contact@bigouden.org" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=EMail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-<!-- <a href="arch" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=arch" alt="" height="42px"/> </a> -->
-<!-- <a href="debian" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=debian" alt="" height="42px"/> </a> -->
-<!-- <a href="python" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=python" alt="" height="42px"/> </a> -->
-<!---->
-<center>
 
-![My Skills](https://skillicons.dev/icons?i=arch,debian,python,js,html,css,c,cpp,java,godot,ocaml,git,bash,mysql,neovim&perline=7)
 
-</center>
-<!-- <a href="c" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=c" alt="" height="42px"/> </a> -->
-<!-- <a href="c++" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=cpp" alt="" height="42px"/> </a> -->
-<!-- <a href="godot" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=godot" alt="" height="42px"/> </a> -->
-<!-- <a href="js" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=html,css,js" alt="" height="42px"/> </a> -->
-<!-- <a href="html" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
-<!-- <a href="css" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
-<!-- <a href="ocaml" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
-<!-- <a href="git" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
-<!-- <a href="bash" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
-<!-- <a href="java" target="_blank"> <img align="left" src="" alt="" height="42px"/> </a> -->
+
+### 💫 About Me
+<img align="right"  width="250" src="./assets/coffee.gif"  />
+<br>
+
+- 🎓 I am a student studying HPC engineering
+- 🔭 I am currently studying HPC and distributed systems
+- 🌱 I am currently learning Rust
+- 🥅 Goals for 2025: contribute to open source projects
+- 📫 How to contact me: contact@bigouden.org
+- 📚 My projects are availables on my blog https://bigouden.org
 
 <br>
 
-<!-- ### 🛠️ My Projects -->
+### 💻 Tech Stack:
+
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="30" alt="ocaml logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="30" alt="centos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+</div>
+
+<br>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Big-Ouden/Big-Ouden/output/snake.svg" alt="Snake animation" />
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Big-Ouden&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Big-Ouden&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
