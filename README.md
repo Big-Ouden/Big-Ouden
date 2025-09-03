@@ -1,4 +1,4 @@
-<img style="display: block; margin-left: auto; margin-right: auto;" align="center"  src="./assets/banner.gif"  />
+<img style="display: block; margin-left: auto; margin-right: auto;" align="center" width="100%"  src="./assets/banner.gif"  />
 
 
 <br>
@@ -94,6 +94,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Big-Ouden/Big-Ouden/output/snake.svg" alt="Snake animation" />
+
+
 
 ### 📊 GitHub Stats:
 
