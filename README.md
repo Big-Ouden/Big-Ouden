@@ -91,6 +91,8 @@
 
 <br>
 
+---
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Big-Ouden/Big-Ouden/output/snake.svg" alt="Snake animation" />
