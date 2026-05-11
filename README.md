@@ -28,7 +28,7 @@
 - 🎓 I am a student studying HPC engineering
 - 🔭 I am currently studying HPC and distributed systems
 - 🌱 I am currently learning Rust
-- 🥅 Goals for 2025: contribute to open source projects
+- 🥅 Goals for 2026: contribute to open source projects
 - 📫 How to contact me: contact@bigouden.org
 - 📚 My projects are availables on my blog https://bigouden.org
 
