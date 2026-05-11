@@ -30,7 +30,7 @@
 - 🌱 I am currently learning Rust
 - 🥅 Goals for 2026: contribute to open source projects
 - 📫 How to contact me: contact@bigouden.org
-- 📚 My projects are availables on my blog https://bigouden.org
+- 📚 My projects are availables on my blog [my blog](https://big-ouden.github.io/projects/)
 
 <br>
 
