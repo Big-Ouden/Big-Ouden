@@ -25,9 +25,8 @@
 <img align="right"  width="250" src="./assets/coffee.gif"  />
 <br>
 
-- 🎓 I am a student studying HPC engineering
-- 🔭 I am currently studying HPC and distributed systems
-- 🌱 I am currently learning Rust
+- 🎓 I am currently studying HPC and distributed systems
+- 🌱 I am currently learning Rust and Kubernetes
 - 🥅 Goals for 2026: contribute to open source projects
 - 📫 How to contact me: contact@bigouden.org
 - 📚 My projects are availables on my blog [my blog](https://big-ouden.github.io/projects/)
